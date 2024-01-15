@@ -1,6 +1,6 @@
 Dans ce répertoire on présente des fonctions de la bibliothèque standard du c
  qui permettent d'accéder aux données stockées sur des fichiers (ou assimilés).
-
+```
 Contenu du répertoire
 ├── makefile        // un makefile pour compiler tous les exécutables      
 ├── file-access.c   // présentation générale des fonctions d'accès aux fichiers
@@ -12,3 +12,4 @@ Contenu du répertoire
 ├── input_files/    //
 ├── output_files/   //
 └── README.md       // ce fichier!
+```
